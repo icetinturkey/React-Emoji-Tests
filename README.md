@@ -1,6 +1,6 @@
 ## Emoji-Search App Test Codes
 
-![Image](https://download.vadi.info/fmss-emojitests.jpg)
+![Image](https://download.vadi.info/fmss-emojitests2.jpg)
 
 Test codes of React project named Emoji-Search.
 
